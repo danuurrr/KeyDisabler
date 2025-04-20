@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "cctype": "cpp",
-        "thread": "cpp"
+        "thread": "cpp",
+        "sstream": "cpp"
     }
 }
