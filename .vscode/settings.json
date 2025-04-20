@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cctype": "cpp",
+        "thread": "cpp"
+    }
+}
