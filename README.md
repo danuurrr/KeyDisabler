@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This KeyDisabler program is a legitimate tool intended for authorized keyboard control, but it's important to understand that it uses several techniques commonly found in malware. This transparency helps users understand the tool's capabilities and security implications.
+
 # Keyboard Disabler
 
 A Windows-based command-line application that allows you to selectively disable keyboard keys.
